@@ -31,5 +31,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohit2098&show_icons=true&locale=en" alt="mohit2098" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats-mu-wine.vercel.app?user=Mohit2098)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-mu-wine.vercel.app?user=Mohit2098" alt="GitHub Streak" /></a>
+
 
