@@ -15,10 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/mohit-semwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mohit semwal" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mohit-semwal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohit semwal" height="30" width="40" /></a>
-<a href="https://instagram.com/mohit0498" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohit0498" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@mohitsemwal5178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mohit semwal" height="30" width="40" /></a>
+<a href="https://codepen.io/mohit-semwal" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mohit semwal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohit-semwal/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohit semwal" height="30" width="40" /></a>
+<a href="https://instagram.com/mohit0498" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohit0498" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@mohitsemwal5178" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mohit semwal" height="30" width="40" /></a>
 </p>
 
 
